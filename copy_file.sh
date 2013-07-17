@@ -1,0 +1,1 @@
+cp /afs/cern.ch/work/p/pandolf/CMSSW_5_2_5/src/Analysis/Higgs/redntp_tHqLeptonic_mH125_8TeV_testtest.root /xrootdfs/cms/local/phys_higgs/pandolf/test/redntp.53x_globe_synch.preselectionMVA.scales-Lisbon-Hgg.globe_synch_2/merged/redntp_tHqLeptonic_mH125_8TeV_testtest_prova_synch.root

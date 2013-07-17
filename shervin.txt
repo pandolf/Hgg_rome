@@ -1,0 +1,4 @@
+pesi: Summer12-ICHEP.71000.observed.weights.root
+json: ICHEP-rereco23May.json, ICHEP.json
+scale: ~shervin/public/globe/paper-Hgg-scale.dat
+smearing: paper-Hgg-scale.dat.MC 

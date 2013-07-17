@@ -1,0 +1,40 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+tree_reader_v7.h have a define to establish the maximum number of vertices (hardcoded in big ntuples)
+use #define SMALL_VERTEX_VECTOR to tun on old big ntuples (before 42xv4_b)
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+========================================
+Preliminary steps to be run at CERN
+========================================
+stageDir.csh <castor dir>  (has to be done for data and MC dirs)
+
+transferXrootd.csh <castor dir> <xroot dir> <parallelism suggested value 5> (has to be done for data and MC dirs)
+
+=============
+Prepare list
+=============
+(has to be done for data and MC)
+ ./runPrepareList.csh list.42xv4_data /castor/cern.ch/cms/store/user/meridian/data/42xv4 cern 1
+ ./runPrepareList.csh list.42xv4 /castor/cern.ch/cms/store/user/meridian/MC/42xv4 cern 1
+
+if you want to create xrootd lists use xrootd as location (after having transferred all files to xrootd)
+
+========================================
+Run the 2011 analysis reduction step:
+========================================
+Modify the makeRedNtp.csh output directory  (castordir)
+
+runAllAnalysis2011.csh  <location> <version> <run if 1> <jsonfile> <use puweight=1> < use ptweight=1 for gg->H > <energy correction/smearings file>
+
+Example for Run2011: ./runAllAnalysis2011.csh cern v1 1 `pwd`/jsonFiles/Cert_160404-180252_7TeV_All2011_v3.txt 1 1 `pwd`/correctionFiles/regrPho_eCorr_30Nov.dat
+
+json file & energy correction smearing file should be ABSOLUTE PATH
+
+========================================
+Merge step
+========================================
+Once jobs are done (to be run from a pc with xrootd  @ CERN like pccmsrm23/24/25/26):
+mergeAll2011.csh <version> <run if 1>
+
+Example:
+./mergeAll2011.csh v1 1

@@ -1,0 +1,189 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Working on dataset DoublePhoton-Run2012B-13Jul2012-v1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+split -l 20 -d -a 2 /tmp/uniq.DoublePhoton-Run2012B-13Jul2012-v1.files.tmp DoublePhoton-Run2012B-13Jul2012-v1_
+# of root files in directory: 1786
+# of uniq files in directory: 993 /tmp/uniq.DoublePhoton-Run2012B-13Jul2012-v1.files.tmp
+# of files per list: 20
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_00.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_01.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_02.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_03.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_04.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_05.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_06.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_07.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_08.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_09.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_10.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_11.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_12.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_13.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_14.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_15.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_16.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_17.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_18.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_19.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_20.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_21.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_22.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_23.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_24.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_25.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_26.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_27.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_28.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_29.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_30.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_31.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_32.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_33.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_34.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_35.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_36.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_37.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_38.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_39.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_40.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_41.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_42.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_43.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_44.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_45.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_46.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_47.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_48.list
+new list:   DoublePhoton-Run2012B-13Jul2012-v1_49.list
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Working on dataset DoublePhoton-Run2012C-13Jul2012-v1_b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+split -l 20 -d -a 2 /tmp/uniq.DoublePhoton-Run2012C-13Jul2012-v1_b.files.tmp DoublePhoton-Run2012C-13Jul2012-v1_b_
+# of root files in directory: 153
+# of uniq files in directory: 153 /tmp/uniq.DoublePhoton-Run2012C-13Jul2012-v1_b.files.tmp
+# of files per list: 20
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_00.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_01.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_02.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_03.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_04.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_05.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_06.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v1_b_07.list
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Working on dataset DoublePhoton-Run2012C-13Jul2012-v2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+split -l 20 -d -a 2 /tmp/uniq.DoublePhoton-Run2012C-13Jul2012-v2.files.tmp DoublePhoton-Run2012C-13Jul2012-v2_
+# of root files in directory: 1451
+# of uniq files in directory: 1451 /tmp/uniq.DoublePhoton-Run2012C-13Jul2012-v2.files.tmp
+# of files per list: 20
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_00.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_01.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_02.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_03.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_04.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_05.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_06.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_07.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_08.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_09.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_10.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_11.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_12.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_13.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_14.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_15.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_16.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_17.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_18.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_19.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_20.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_21.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_22.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_23.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_24.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_25.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_26.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_27.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_28.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_29.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_30.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_31.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_32.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_33.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_34.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_35.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_36.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_37.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_38.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_39.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_40.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_41.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_42.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_43.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_44.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_45.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_46.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_47.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_48.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_49.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_50.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_51.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_52.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_53.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_54.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_55.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_56.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_57.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_58.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_59.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_60.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_61.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_62.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_63.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_64.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_65.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_66.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_67.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_68.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_69.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_70.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_71.list
+new list:   DoublePhoton-Run2012C-13Jul2012-v2_72.list
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Working on dataset Photon-Run2012A-13Jul2012-v1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+split -l 20 -d -a 2 /tmp/uniq.Photon-Run2012A-13Jul2012-v1.files.tmp Photon-Run2012A-13Jul2012-v1_
+# of root files in directory: 384
+# of uniq files in directory: 384 /tmp/uniq.Photon-Run2012A-13Jul2012-v1.files.tmp
+# of files per list: 20
+new list:   Photon-Run2012A-13Jul2012-v1_00.list
+new list:   Photon-Run2012A-13Jul2012-v1_01.list
+new list:   Photon-Run2012A-13Jul2012-v1_02.list
+new list:   Photon-Run2012A-13Jul2012-v1_03.list
+new list:   Photon-Run2012A-13Jul2012-v1_04.list
+new list:   Photon-Run2012A-13Jul2012-v1_05.list
+new list:   Photon-Run2012A-13Jul2012-v1_06.list
+new list:   Photon-Run2012A-13Jul2012-v1_07.list
+new list:   Photon-Run2012A-13Jul2012-v1_08.list
+new list:   Photon-Run2012A-13Jul2012-v1_09.list
+new list:   Photon-Run2012A-13Jul2012-v1_10.list
+new list:   Photon-Run2012A-13Jul2012-v1_11.list
+new list:   Photon-Run2012A-13Jul2012-v1_12.list
+new list:   Photon-Run2012A-13Jul2012-v1_13.list
+new list:   Photon-Run2012A-13Jul2012-v1_14.list
+new list:   Photon-Run2012A-13Jul2012-v1_15.list
+new list:   Photon-Run2012A-13Jul2012-v1_16.list
+new list:   Photon-Run2012A-13Jul2012-v1_17.list
+new list:   Photon-Run2012A-13Jul2012-v1_18.list
+new list:   Photon-Run2012A-13Jul2012-v1_19.list
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Working on dataset Photon-Run2012A-recover-06Aug2012-v1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+split -l 20 -d -a 2 /tmp/uniq.Photon-Run2012A-recover-06Aug2012-v1.files.tmp Photon-Run2012A-recover-06Aug2012-v1_
+# of root files in directory: 53
+# of uniq files in directory: 52 /tmp/uniq.Photon-Run2012A-recover-06Aug2012-v1.files.tmp
+# of files per list: 20
+new list:   Photon-Run2012A-recover-06Aug2012-v1_00.list
+new list:   Photon-Run2012A-recover-06Aug2012-v1_01.list
+new list:   Photon-Run2012A-recover-06Aug2012-v1_02.list
